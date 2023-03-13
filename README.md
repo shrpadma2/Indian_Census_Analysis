@@ -1,7 +1,4 @@
-# SQL Data Cleaning with Housing Data
-
-SQL project for data cleaning. <br>
-The Nashville Housing Dataset is available on [link](https://www.census2011.co.in/district.php).
+# SQL Indian Census Analysis
 
 ## **Database, Database Tool** 
 
